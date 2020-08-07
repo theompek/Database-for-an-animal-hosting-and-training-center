@@ -1,0 +1,15 @@
+ID_Pet,Breed,Name,Species,Age,Weight,Color,ID_Bed,ATOwner
+1,yorkshire terrier,Rex,Dog,2,5.55,Grey,1,TY487240
+2,Russian Blue,Mike,Cat,4,4.6,Black,2,NM569123
+3,Labrador Retriever,Doggo,Dog,10,9.5,Brown,3,EP658023
+4,Pug,Puppie,Dog,4,4.3,White,4,HK473292
+5,Dachshund,Moly,Dog,8,9.1,Grey,5,YE093212
+6,Persian,Holy,Cat,2,4.3,Brown,6,OI392544
+7,Siamese,Greg,Cat,6,7.5,White,7,KE563829
+8,Poodle,Ivan,Dog,6,5.6,Black,8,OA628492
+9,Munchin,Hermiony,Cat,9,7.1,Black,9,TI102938
+10,Maine Coon,Pat,Cat,3,6.5,Grey,10,PO564738
+11,German Sepherd,Max,Dog,5,6.7,White,11,HA784523
+12,Ragdoll,Alex,Cat,2,9.3,Brown,12,PI384715
+13,Dobermann,Scandal,Dog,1,1.5,Yellow,13,HO542814
+14,Himalayan,Garfield,Cat,8,4.9,White,14,HI941839

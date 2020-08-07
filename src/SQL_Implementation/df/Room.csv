@@ -1,0 +1,17 @@
+ID_Room,MaxNumOfPets,SpaceType,RoomName
+1,10,Bathroom,Artemis1
+2,20,Bathroom,Artemis2
+3,25,Bathroom,Artemis3
+4,20,Bedroom,SensitiveSoul
+5,25,Bedroom,Kalliopi1
+6,30,Bedroom,Kalliopi2
+7,35,Bedroom,Whatever
+8,40,Bedroom,Sleep
+9,10,Bedroom,Galaxy
+10,50,Fun place,HakunaMatata
+11,60,Fun place,WhatAWonderful
+12,55,Fun place,SensitiveSoul
+13,45,Fun place,Paradise
+14,140,Outdoor,NoPassingCraze
+15,3,Training area,ItMeansNo
+16,5,Training area,Savannah

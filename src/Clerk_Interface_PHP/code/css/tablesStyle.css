@@ -1,0 +1,64 @@
+
+
+.text {  
+ text-indent: 20px;
+  color: #a1c4fd;
+}
+
+.text span{
+ background-color:#cfd9df;	
+ text-indent: 20px;
+  color: black;
+}
+
+.form-inline {  
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.form-inline label {
+  margin: 5px 10px 5px 0;
+}
+
+.form-inline input {
+  vertical-align: middle;
+  margin: 5px 10px 5px 0;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+
+.form-inline button {
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  color: dodgerblue;
+  cursor: pointer;
+}
+
+.header1 {
+  margin-top:-20px; height: 30px; 
+background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    margin-bottom: 15px;
+
+}
+
+.formStyle {
+  width:98%;
+  margin-left:10px;
+}
+
+.form-inline button:hover {
+  background-color: LimeGreen  ;
+}
+
+@media (max-width: 800px) {
+  .form-inline input {
+    margin: 10px 0;
+  }
+  
+  .form-inline {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

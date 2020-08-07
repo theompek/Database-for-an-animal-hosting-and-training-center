@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1"> 
+		<title>Διαχείρηση Στοιχείων Κέντου φιλοξενίας</title>
+		<link rel="shortcut icon" href="../favicon.ico">
+		<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.6.3/css/all.css' integrity='sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/' crossorigin='anonymous'>
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="css/screenRun.css" />
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<script src="js/modernizr.custom.25376.js"></script>
+	</head>
+	<body style="zoom:75%;">
+		<div style="margin-top:-20px; height: 50px; background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);">
+			<h1 style="text-align: center;" >Σύστημα διαχείρισης βάσης δεδομένων γραμματείας</h1>
+		</div>
+		
+		<div id="perspective" class="perspective effect-rotatetop">
+			<div class="container">
+				<div class="wrapper"><!-- wrapper needed for scroll -->
+					<div class="codrops-top clearfix"></div>
+					<div class="main clearfix">
+						<div>
+							<p><button id="showMenu">Show Tables</button></p>
+							<p>Πατήστε το κουμπί <span style="color:white; background-color: #e67300;">SHOW TABLES</span> για να δείτε την λίστα των πινάκων της βάσης και επιλεξτε κάποιον πίνακα για επεξεργασία.</p>
+						</div>
+					</div>
+					
+					<!-- Πλατφόρμα διαχείρησης πινάκων -->
+					<div style="margin:0 auto;">
+					<p align="center"><iframe width="90%" height="600px" border="0"  src="firstPage/assistantPage.html" name="menuPage" id="menuPage"></iframe></p>
+					</div>
+					
+					
+				</div><!-- wrapper -->
+			</div><!-- /container -->
+			
+			
+			<nav class="outer-nav bottom horizontal">
+				<a href="tables/petTable.php" target="menuPage"><i class='fas fa-dog'> Pet </i> </a>
+				<a href="tables/bedTable.php"  target="menuPage"><i class='fas fa-bed'> Bed </i></a>
+				<a href="tables/employeesTable.php" target="menuPage"><i class='fas fa-address-card'> Employees </i></a>
+				<a href="tables/petOwnersTable.php" target="menuPage"><i class='fas fa-users'> Pet Owners </i></a>
+				<a href="tables/roomTable.php" target="menuPage"><i class='fas fa-home'> Rooms </i></a>
+				<a href="tables/doactivityTable.php" target="menuPage"><i class='fas fa-tasks'> Activities </i></a>
+				<a href="tables/takeCareOfTable.php" target="menuPage"><i class='fas fa-dog'><i class='fas fa-user'></i> Take Care Of </i></a>
+			</nav>
+		</div><!-- /perspective -->
+		<script src="js/classie.js"></script>
+		<script src="js/menu.js"></script>
+	</body>
+</html>

@@ -1,0 +1,25 @@
+ID_Service,CostPerDay,ServiceName,MemberDiscount,ServiceInformations
+1,8,Lodging with food,0,Fun time foodwalk
+2,10,Lodging with food,25,Fun timefoodwalk
+3,7,Bath,5,Fear of water
+4,10,Training,15,obedience training 
+5,10,Lodging with food,5,Fun time warnings at walks fish food
+6,10,Exercise,0,Hard workout needed
+7,10,Training,0,Basics Instructions
+8,15,Lodging with food,10,AllergyFish a lot of walks fun time
+9,2,Lodging with food,10,Only chicken food fun time less walks
+10,5,Exercise,5,Medium level of exercise
+11,5,Lodging with food,5,Fun timefoodwalk
+12,10,Exercise,0,Low level of exercise
+13,15,Training,5,obedience training 
+14,5,Bath,0,Fear of water
+15,15,Lodging with food,5,Violence behavior food with calf a lot o walks
+16,15,Lodging with food,0,Fun timefoodwalk
+17,15,Lodging with food,5,A lot of fun time less food walks
+18,15,Lodging with food,15,Fun timefoodwalk
+19,10,Exercise,10,Simple exercise
+20,16,Lodging with food,0,More food needed a lot of walks Fun time
+21,15,Lodging with food,0,Fun time foodwalk
+22,15,Lodging with food,0,AllergyChicken food walks fun time
+23,15,Lodging with food,0,Fun timefoodwalk
+24,8,Bath,10,Fear of water
